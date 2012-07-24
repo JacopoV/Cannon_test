@@ -1,0 +1,3 @@
+
+Error: Wav wav\destroyed.wav has wrong format
+       Supported frequency: 11025, 22050, 44100 Hz, 16 bits
